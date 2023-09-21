@@ -47,7 +47,7 @@
         </article>
         <article>
             <h3 id = "sample">샘플</a></h3>
-            <img src = "sample.jpg">
+            <img src = "./p202_sample.jpg">
         </article>
     </section>
     <footer>

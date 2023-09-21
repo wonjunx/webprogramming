@@ -1,0 +1,31 @@
+body {
+    background-color : rgb(199, 221, 240);
+}
+h1 {
+    color : brown;
+    text-align : center;
+}
+header {
+    border-bottom-style : solid;
+    border-bottom-width : 1px;
+}
+ul {
+    border-style : dotted;
+    border-width : 1px;
+}
+a {
+    text-decoration: none;
+}
+p {
+    font-size : 1em;
+    text-indent : 1em;
+    font-family: 휴먼편지체;
+}
+h3 {
+    color : blue;
+    text-shadow : 1px 1px 1px blue;
+}
+footer {
+    background-color : orange;
+    border-radius : 10px;
+}

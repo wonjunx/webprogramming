@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = "utf-8">
+    <title>:hover 활용</title>
+    <style>
+        div {
+            width : 10em;
+            height : 15em;
+            background-image : url(p209_7_front.png);
+            background-size : 10em 15em;
+        }
+        div:hover {
+            width : 10em;
+            height : 15em;
+            background-image : url(p209_7_back.png);
+            background-size : 10em 15em; 
+        }
+    </style>
+</head>
+<body>
+    <h3>:hover 활용</h3>
+    <hr>
+    마우스를 올리면 카드의 앞면이 보인다.<div></div>
+</body>
+</html>

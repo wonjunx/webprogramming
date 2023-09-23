@@ -53,7 +53,8 @@ p209 실습문제 6
 
 ![image](https://github.com/wonjunx/webprogramming/assets/70313647/02e6c3b1-49f4-45f2-9063-73dfbb45ff78)
 ![image](https://github.com/wonjunx/webprogramming/assets/70313647/4e201010-2ea6-4ff4-8986-09755562105c)
-![image](https://github.com/wonjunx/webprogramming/assets/70313647/9abce2f5-e145-4934-83fb-2ed531f11231)
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/8884142e-bf78-48cf-aa5b-3425158ecf0b)
+
 
 링크에 마우스를 올리면 violet 색으로 변한다.
 

@@ -45,3 +45,28 @@ p308 실습문제 5
 ![image](https://github.com/wonjunx/webprogramming/assets/70313647/b1bcc4af-c2e8-4706-86c0-bdd035585541)
 
 p309 실습문제 6(1)
+
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/5359139f-c5e0-418d-a111-0e5fb77831c0)
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/5694f584-4a55-4e84-86fa-422b181e76fd)
+
+p309 실습문제 6(2)
+
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/3ed494e6-497f-49bf-b244-2574a37efd1f)
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/989ab5ad-0fa4-4f57-a6dc-b7ff635c78d8)
+
+p309 실습문제 7
+
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/056fac3d-9a9e-41e7-b584-55bd6af0d2b3)
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/99f6fba6-63aa-444e-8b94-d28a11055895)
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/69223762-c23d-4c74-a0b8-4b877d9e9ad0)
+
+p310 실습문제 8
+
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/5159975c-a53c-4c45-987e-1f6d38e1d5b2)
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/241e50c1-9a35-42df-a115-8ea118045555)
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/70461e98-8406-4547-8401-ed08bd652750)
+
+p340 Open Challenge
+
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/acc61cd9-4fda-4d43-96ee-08e2fc27d4ed)
+![image](https://github.com/wonjunx/webprogramming/assets/70313647/08e51ce4-7b43-43c6-9a3d-b1a69a4f50d0)
